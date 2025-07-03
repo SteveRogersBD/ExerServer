@@ -1,4 +1,4 @@
-package com.example.Parent.util;
+package com.example.Parent.utils;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
